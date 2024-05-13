@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "2f577dc3-84f3-4347-9137-e25751ab9e03",
+      "title": "3132",
+      "price": 3213,
+      "img": "https://preview.colorlib.com/theme/shop/img/l6.jpg.webp"
+    },
+    {
+      "id": "43fbf9f7-392b-4962-8071-24948a7e66dd",
+      "title": "asdsa2",
+      "price": 213,
+      "img": "https://preview.colorlib.com/theme/shop/img/l7.jpg.webp"
+    },
+    {
+      "id": "43fbf9f7-392b-4962-8071-24948a7e66dd",
+      "title": "asdsa2",
+      "price": 2133,
+      "img": "https://preview.colorlib.com/theme/shop/img/l7.jpg.webp"
+    },
+    {
+      "id": "43fbf9f7-392b-4962-8071-24948a7e66dd",
+      "title": "asdsa2",
+      "price": 21333,
+      "img": "https://preview.colorlib.com/theme/shop/img/l7.jpg.webp"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.siteHeader{
+    a{
+        text-decoration: none;
+        color: #000;
+
+    }
+    .ust{
+        .hoverlink a{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: 0.5s;
+            font-size: 12px;
+        }
+        .hoverlink:hover a{
+            color: #fff;
+            background-color: rgb(255, 45, 118);
+        }
+    }
+    .alt{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 10px 0;
+        .navbar{
+            display: flex;
+            gap: 20px;
+            a{
+                &:hover{
+                    color:  rgb(255, 45, 118);
+                }
+            }
+        }
+    }
+}
